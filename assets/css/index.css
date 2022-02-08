@@ -2,6 +2,10 @@ body {
   font-family: Arial;
 }
 
+.header {
+  margin: 16px;
+}
+
 #title {
   color: #686868;
 }
