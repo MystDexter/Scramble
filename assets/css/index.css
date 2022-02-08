@@ -2,6 +2,10 @@ body {
   font-family: Arial;
 }
 
+#title {
+  color: #686868;
+}
+
 #startArea {
   margin: 16px;
 }
